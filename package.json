@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/jodelat/Weather-Text/issues"
   },
-  "homepage": "https://github.com/jodelat/Weather-Text#readme"
+  "homepage": "https://github.com/jodelat/Weather-Text#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "weather-js": "^2.0.0"
+  }
 }
